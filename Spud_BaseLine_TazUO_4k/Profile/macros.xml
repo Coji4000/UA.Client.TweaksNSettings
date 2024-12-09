@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<macros>
+	<macro name="[])__NPC_CHAT__([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Bank" key="98" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="True" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="Bank" />
+		</actions>
+	</macro>
+	<macro name="Buy" key="98" mousebutton="0" wheelscroll="False" wheelup="False" alt="True" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="Vendor Buy" />
+		</actions>
+	</macro>
+	<macro name="Sell" key="115" mousebutton="0" wheelscroll="False" wheelup="False" alt="True" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="Vendor Sell" />
+		</actions>
+	</macro>
+	<macro name="[])_ANIMAL_ACT_([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="All Follow Me" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="All Follow Me" />
+		</actions>
+	</macro>
+	<macro name="All Guard" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="All Guard Me" />
+		</actions>
+	</macro>
+	<macro name="All Stay" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="All Stay" />
+		</actions>
+	</macro>
+	<macro name="Bond Info" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[bondinfo" />
+		</actions>
+	</macro>
+	<macro name="[])___MENUS____([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Change Character" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[changecharacter" />
+		</actions>
+	</macro>
+	<macro name="Check Houses" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[myhouses" />
+		</actions>
+	</macro>
+	<macro name="Options" key="111" mousebutton="0" wheelscroll="False" wheelup="False" alt="True" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="8" subcode="9" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Questlog" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[quests" />
+		</actions>
+	</macro>
+	<macro name="Quickbar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[quickbar" />
+		</actions>
+	</macro>
+	<macro name="Quit" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="2776" graphic="" scale="100">
+		<actions>
+			<action code="20" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="[])_INFO_GUMPS_([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Buff Icons" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="55" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Close Corpses" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="76" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Close Grey Healthbars" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="75" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Combat Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[CombatBar" />
+		</actions>
+	</macro>
+	<macro name="Show Weapon Abilities" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[sad" />
+		</actions>
+	</macro>
+	<macro name="Wealth Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[wealth" />
+		</actions>
+	</macro>
+	<macro name="[])VISUAL_MODS_([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Toggle Cave Tiles" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="74" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Toggle Roofs" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="71" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Toggle Veg" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="73" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Transparency Circle" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="29" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Trees/Stumps" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="72" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="[])__HEALING___([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Bandage Self" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="56" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Bandage Target" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="57" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Use Best Cure Pot" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="77" subcode="227" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Use Best Health Pot" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="77" subcode="226" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Use Best Refresh Pot" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="77" subcode="228" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="[])__TRGT_USE__([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Last Item" key="99" mousebutton="0" wheelscroll="False" wheelup="False" alt="True" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="17" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Last Object" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="17" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Last Skill" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="14" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Last Target" key="118" mousebutton="0" wheelscroll="False" wheelup="False" alt="True" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="22" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Pugilist Disarm" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="82" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Pugilist Stun" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="81" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Target Self" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="23" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Use Best Explosion Pot" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="77" subcode="231" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Use Best Conflagration Pot" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="77" subcode="232" submenutype="1" />
+		</actions>
+	</macro>
+	<macro name="Use Held Item" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="67" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Wep Ability 1" key="49" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[set1" />
+		</actions>
+	</macro>
+	<macro name="Wep Ability 2" key="50" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[set2" />
+		</actions>
+	</macro>
+	<macro name="Wep Ability 3" key="51" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[set3" />
+		</actions>
+	</macro>
+	<macro name="Wep Ability 4" key="52" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[set4" />
+		</actions>
+	</macro>
+	<macro name="Wep Ability 5" key="53" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[set5" />
+		</actions>
+	</macro>
+	<macro name="[])__HOTBARS___([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+	<macro name="Hide Bard Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[bardclose1" />
+		</actions>
+	</macro>
+	<macro name="Hide Chivalry Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[chivalryclose1" />
+		</actions>
+	</macro>
+	<macro name="Hide Death Knight Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[deathclose1" />
+		</actions>
+	</macro>
+	<macro name="Hide Mage Bars" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[mageclose1" />
+			<action code="1" subcode="0" submenutype="2" text="" />
+			<action code="1" subcode="0" submenutype="2" text="[mageclose2" />
+			<action code="1" subcode="0" submenutype="2" text="[mageclose3" />
+			<action code="1" subcode="0" submenutype="2" text="[mageclose4" />
+		</actions>
+	</macro>
+	<macro name="Hide Monk Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[monkclose1" />
+		</actions>
+	</macro>
+	<macro name="Hide Necro Bars" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[necroclose1" />
+			<action code="1" subcode="0" submenutype="2" text="[necroclose2" />
+		</actions>
+	</macro>
+	<macro name="Hide Priest Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[holyclose1" />
+		</actions>
+	</macro>
+	<macro name="Hide Reagents" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[creagents" />
+		</actions>
+	</macro>
+	<macro name="Show Bard Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[bardtool1" />
+		</actions>
+	</macro>
+	<macro name="Show Chivalry Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[chivalrytool1" />
+		</actions>
+	</macro>
+	<macro name="Show Death Knight Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[deathtool1" />
+		</actions>
+	</macro>
+	<macro name="Show Mage Bars" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[magetool1" />
+			<action code="1" subcode="0" submenutype="2" text="[magetool2" />
+			<action code="1" subcode="0" submenutype="2" text="[magetool3" />
+			<action code="1" subcode="0" submenutype="2" text="[magetool4" />
+		</actions>
+	</macro>
+	<macro name="Show Monk Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[monktool1" />
+		</actions>
+	</macro>
+	<macro name="Show Necro Bars" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[necrotool1" />
+			<action code="1" subcode="0" submenutype="2" text="[necrotool2" />
+		</actions>
+	</macro>
+	<macro name="Show Priest Bar" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[holytool1" />
+		</actions>
+	</macro>
+	<macro name="Show Reagents" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="1" subcode="0" submenutype="2" text="[mreagents" />
+			<action code="1" subcode="0" submenutype="2" text="[nreagents" />
+			<action code="1" subcode="0" submenutype="2" text="[areagents" />
+		</actions>
+	</macro>
+	<macro name="[])EOF_12_8_24_([]" key="0" mousebutton="0" wheelscroll="False" wheelup="False" alt="False" ctrl="False" shift="False" hidelabel="False" hue="0" graphic="" scale="100">
+		<actions>
+			<action code="0" subcode="0" submenutype="0" />
+		</actions>
+	</macro>
+</macros>

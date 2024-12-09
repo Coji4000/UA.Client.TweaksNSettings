@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gumps>
+	<anchored_group_gump matrix_w="9" matrix_h="2">
+		<gump type="7" x="2088" y="1969" serial="1063" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Mage Bars" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2178" y="1969" serial="1065" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Necro Bars" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="2268" y="1969" serial="1061" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Chivalry Bar" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="2358" y="1969" serial="1067" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Reagents" matrix_x="3" matrix_y="0" />
+		<gump type="7" x="2448" y="1969" serial="1060" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Bard Bar" matrix_x="4" matrix_y="0" />
+		<gump type="7" x="2538" y="1969" serial="1062" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Death Knight Bar" matrix_x="5" matrix_y="0" />
+		<gump type="7" x="2628" y="1969" serial="1064" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Monk Bar" matrix_x="6" matrix_y="0" />
+		<gump type="7" x="2718" y="1969" serial="1066" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Priest Bar" matrix_x="7" matrix_y="0" />
+		<gump type="7" x="2088" y="2013" serial="1055" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Mage Bars" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="2178" y="2013" serial="1057" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Necro Bars" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="2268" y="2013" serial="1053" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Chivalry Bar" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="2358" y="2013" serial="1059" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Reagents" matrix_x="3" matrix_y="1" />
+		<gump type="7" x="2448" y="2013" serial="1052" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Bard Bar" matrix_x="4" matrix_y="1" />
+		<gump type="7" x="2538" y="2013" serial="1054" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Death Knight Bar" matrix_x="5" matrix_y="1" />
+		<gump type="7" x="2628" y="2013" serial="1056" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Monk Bar" matrix_x="6" matrix_y="1" />
+		<gump type="7" x="2718" y="2013" serial="1058" serverSerial="0" isLocked="False" alphaOffset="0" name="Hide Priest Bar" matrix_x="7" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="5">
+		<gump type="7" x="2577" y="9" serial="1014" serverSerial="0" isLocked="False" alphaOffset="0" name="Quickbar" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2665" y="9" serial="1021" serverSerial="0" isLocked="False" alphaOffset="0" name="Show Weapon Abilities" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="2577" y="53" serial="1020" serverSerial="0" isLocked="False" alphaOffset="0" name="Combat Bar" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="2665" y="53" serial="1013" serverSerial="0" isLocked="False" alphaOffset="0" name="Questlog" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="2577" y="97" serial="1017" serverSerial="0" isLocked="False" alphaOffset="0" name="Buff Icons" matrix_x="0" matrix_y="2" />
+		<gump type="7" x="2665" y="97" serial="1022" serverSerial="0" isLocked="False" alphaOffset="0" name="Wealth Bar" matrix_x="1" matrix_y="2" />
+		<gump type="7" x="2577" y="141" serial="1025" serverSerial="0" isLocked="False" alphaOffset="0" name="Toggle Roofs" matrix_x="0" matrix_y="3" />
+		<gump type="7" x="2665" y="141" serial="1028" serverSerial="0" isLocked="False" alphaOffset="0" name="Trees/Stumps" matrix_x="1" matrix_y="3" />
+		<gump type="7" x="2577" y="185" serial="1024" serverSerial="0" isLocked="False" alphaOffset="0" name="Toggle Cave Tiles" matrix_x="0" matrix_y="4" />
+		<gump type="7" x="2665" y="185" serial="1026" serverSerial="0" isLocked="False" alphaOffset="0" name="Toggle Veg" matrix_x="1" matrix_y="4" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="5" matrix_h="1">
+		<gump type="7" x="1370" y="1315" serial="1046" serverSerial="0" isLocked="False" alphaOffset="0" name="Wep Ability 1" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1458" y="1315" serial="1047" serverSerial="0" isLocked="False" alphaOffset="0" name="Wep Ability 2" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="1546" y="1315" serial="1048" serverSerial="0" isLocked="False" alphaOffset="0" name="Wep Ability 3" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="1634" y="1315" serial="1049" serverSerial="0" isLocked="False" alphaOffset="0" name="Wep Ability 4" matrix_x="3" matrix_y="0" />
+		<gump type="7" x="1722" y="1315" serial="1050" serverSerial="0" isLocked="False" alphaOffset="0" name="Wep Ability 5" matrix_x="4" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="1">
+		<gump type="7" x="963" y="1315" serial="1002" serverSerial="0" isLocked="False" alphaOffset="0" name="Buy" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="1051" y="1315" serial="1003" serverSerial="0" isLocked="False" alphaOffset="0" name="Sell" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="1139" y="1315" serial="1001" serverSerial="0" isLocked="False" alphaOffset="0" name="Bank" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="1954" y="1315" serial="1040" serverSerial="0" isLocked="False" alphaOffset="0" name="Pugilist Disarm" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2042" y="1315" serial="1041" serverSerial="0" isLocked="False" alphaOffset="0" name="Pugilist Stun" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="12" matrix_h="2">
+		<gump type="16" x="2260" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="19" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="2260" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="19" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="2348" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="46" matrix_x="2" matrix_y="0" />
+		<gump type="16" x="2348" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="46" matrix_x="3" matrix_y="0" />
+		<gump type="16" x="2436" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="23" matrix_x="4" matrix_y="0" />
+		<gump type="16" x="2436" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="23" matrix_x="5" matrix_y="0" />
+		<gump type="16" x="2524" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="30" matrix_x="6" matrix_y="0" />
+		<gump type="16" x="2524" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="30" matrix_x="7" matrix_y="0" />
+		<gump type="16" x="2612" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="6" matrix_x="8" matrix_y="0" />
+		<gump type="16" x="2612" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="6" matrix_x="9" matrix_y="0" />
+		<gump type="16" x="2700" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="21" matrix_x="10" matrix_y="0" />
+		<gump type="16" x="2700" y="1225" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="21" matrix_x="11" matrix_y="0" />
+		<gump type="16" x="2260" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="1" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="2260" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="1" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="2348" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="16" matrix_x="2" matrix_y="1" />
+		<gump type="16" x="2348" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="16" matrix_x="3" matrix_y="1" />
+		<gump type="16" x="2436" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="32" matrix_x="4" matrix_y="1" />
+		<gump type="16" x="2436" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="32" matrix_x="5" matrix_y="1" />
+		<gump type="16" x="2524" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="38" matrix_x="6" matrix_y="1" />
+		<gump type="16" x="2524" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="38" matrix_x="7" matrix_y="1" />
+		<gump type="16" x="2612" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="33" matrix_x="8" matrix_y="1" />
+		<gump type="16" x="2612" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="33" matrix_x="9" matrix_y="1" />
+		<gump type="16" x="2700" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="47" matrix_x="10" matrix_y="1" />
+		<gump type="16" x="2700" y="1269" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="47" matrix_x="11" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="2790" y="1095" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="14" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="2790" y="1095" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="14" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="2790" y="1139" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="48" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="2790" y="1139" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="48" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="3">
+		<gump type="16" x="2790" y="964" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="9" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="2790" y="964" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="9" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="2790" y="1008" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="22" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="2790" y="1008" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="22" matrix_x="1" matrix_y="1" />
+		<gump type="16" x="2790" y="1052" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="15" matrix_x="0" matrix_y="2" />
+		<gump type="16" x="2790" y="1052" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="15" matrix_x="1" matrix_y="2" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="1" matrix_h="7">
+		<gump type="7" x="2788" y="655" serial="1033" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Best Health Pot" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2788" y="699" serial="1032" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Best Cure Pot" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="2788" y="743" serial="1034" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Best Refresh Pot" matrix_x="0" matrix_y="2" />
+		<gump type="7" x="2788" y="787" serial="1030" serverSerial="0" isLocked="False" alphaOffset="0" name="Bandage Self" matrix_x="0" matrix_y="3" />
+		<gump type="7" x="2788" y="831" serial="1031" serverSerial="0" isLocked="False" alphaOffset="0" name="Bandage Target" matrix_x="0" matrix_y="4" />
+		<gump type="7" x="2788" y="875" serial="1043" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Best Explosion Pot" matrix_x="0" matrix_y="5" />
+		<gump type="7" x="2788" y="919" serial="1044" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Best Conflagration Pot" matrix_x="0" matrix_y="6" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="7" x="2945" y="398" serial="1010" serverSerial="0" isLocked="False" alphaOffset="0" name="Change Character" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="3033" y="398" serial="1012" serverSerial="0" isLocked="False" alphaOffset="0" name="Options" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="2945" y="442" serial="1011" serverSerial="0" isLocked="False" alphaOffset="0" name="Check Houses" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="3033" y="442" serial="1015" serverSerial="0" isLocked="False" alphaOffset="0" name="Quit" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="3" matrix_h="1">
+		<gump type="7" x="2079" y="302" serial="1018" serverSerial="0" isLocked="False" alphaOffset="0" name="Close Corpses" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2169" y="302" serial="1019" serverSerial="0" isLocked="False" alphaOffset="0" name="Close Grey Healthbars" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="2259" y="302" serial="1027" serverSerial="0" isLocked="False" alphaOffset="0" name="Transparency Circle" matrix_x="2" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="4" matrix_h="2">
+		<gump type="7" x="2360" y="302" serial="1006" serverSerial="0" isLocked="False" alphaOffset="0" name="All Guard" matrix_x="0" matrix_y="1" />
+		<gump type="7" x="2450" y="302" serial="1005" serverSerial="0" isLocked="False" alphaOffset="0" name="All Follow Me" matrix_x="1" matrix_y="1" />
+		<gump type="7" x="2540" y="302" serial="1007" serverSerial="0" isLocked="False" alphaOffset="0" name="All Stay" matrix_x="2" matrix_y="1" />
+		<gump type="7" x="2630" y="302" serial="1008" serverSerial="0" isLocked="False" alphaOffset="0" name="Bond Info" matrix_x="3" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="1">
+		<gump type="7" x="2613" y="1315" serial="1039" serverSerial="0" isLocked="False" alphaOffset="0" name="Last Target" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2701" y="1315" serial="1042" serverSerial="0" isLocked="False" alphaOffset="0" name="Target Self" matrix_x="1" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="4" matrix_h="1">
+		<gump type="7" x="2260" y="1315" serial="1045" serverSerial="0" isLocked="False" alphaOffset="0" name="Use Held Item" matrix_x="0" matrix_y="0" />
+		<gump type="7" x="2348" y="1315" serial="1036" serverSerial="0" isLocked="False" alphaOffset="0" name="Last Item" matrix_x="1" matrix_y="0" />
+		<gump type="7" x="2436" y="1315" serial="1038" serverSerial="0" isLocked="False" alphaOffset="0" name="Last Skill" matrix_x="2" matrix_y="0" />
+		<gump type="7" x="2524" y="1315" serial="1037" serverSerial="0" isLocked="False" alphaOffset="0" name="Last Object" matrix_x="3" matrix_y="0" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="2791" y="1183" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="35" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="2791" y="1183" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="35" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="2791" y="1227" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="2" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="2791" y="1227" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="2" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<anchored_group_gump matrix_w="2" matrix_h="2">
+		<gump type="16" x="2791" y="1270" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="4" matrix_x="0" matrix_y="0" />
+		<gump type="16" x="2791" y="1270" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="4" matrix_x="1" matrix_y="0" />
+		<gump type="16" x="2791" y="1314" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="3" matrix_x="0" matrix_y="1" />
+		<gump type="16" x="2791" y="1314" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="3" matrix_x="1" matrix_y="1" />
+	</anchored_group_gump>
+	<gump type="9" x="2909" y="6" serial="574610" serverSerial="0" isLocked="True" alphaOffset="0" />
+	<gump type="0" x="963" y="510" serial="220619" serverSerial="1759685005" isLocked="False" alphaOffset="0" />
+	<gump type="8787" x="2914" y="522" serial="1077886197" serverSerial="0" isLocked="True" alphaOffset="0" ogContainer="60" />
+	<gump type="8787" x="2927" y="1572" serial="1079196217" serverSerial="0" isLocked="True" alphaOffset="0" ogContainer="61" />
+	<gump type="8787" x="2929" y="1827" serial="1075815682" serverSerial="0" isLocked="True" alphaOffset="0" ogContainer="60" />
+	<gump type="8787" x="3418" y="1249" serial="1074575029" serverSerial="0" isLocked="False" alphaOffset="0" ogContainer="60" />
+	<gump type="0" x="2768" y="64" serial="220602" serverSerial="4017734941" isLocked="False" alphaOffset="0" />
+	<gump type="19" x="219" y="171" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" minimized="False" />
+	<gump type="20" x="33" y="172" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" minimized="False" />
+	<gump type="21" x="100" y="100" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="6" x="35" y="287" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" rw="902" rh="1774" tab="0" />
+	<gump type="0" x="37" y="220" serial="218647" serverSerial="3531698223" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="1624" y="231" serial="218645" serverSerial="2160233605" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="993" y="259" serial="218644" serverSerial="1436160044" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="37" y="258" serial="218643" serverSerial="3331172209" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1433" serial="217232" serverSerial="4253614342" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="20" y="45" serial="268369994" serverSerial="268369995" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1478" serial="217228" serverSerial="4253614347" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1834" serial="217199" serverSerial="3568001825" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1794" serial="217198" serverSerial="1403771695" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1750" serial="217197" serverSerial="1345635374" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1704" serial="217196" serverSerial="2687542649" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1659" serial="217192" serverSerial="4026430966" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1614" serial="217191" serverSerial="660023610" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1568" serial="217190" serverSerial="1063308137" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1523" serial="217187" serverSerial="4253614341" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="2088" y="1388" serial="217186" serverSerial="4253614344" isLocked="False" alphaOffset="0" />
+	<gump type="1" x="2699" y="-187" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" graphic="2091" updown="False" lastX="2699" lastY="-187" />
+	<gump type="10" x="3439" y="5" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="3" x="2720" y="300" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" rows="4" columns="4" rectsize="40">
+		<controls>
+			<control graphic="9726" hue="0" />
+			<control graphic="9450" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="3617" hue="0" />
+			<control graphic="3852" hue="0" />
+			<control graphic="3847" hue="0" />
+			<control graphic="6159" hue="1174" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+			<control graphic="0" hue="0" />
+		</controls>
+	</gump>
+	<gump type="5" x="2359" y="265" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="18" x="955" y="1388" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+</gumps>
