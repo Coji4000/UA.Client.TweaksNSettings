@@ -12,4 +12,9 @@ This repo is a collection of miscellaneous client/tool configurations from the U
 **🥔 Spud_BaseLine_TazUO_4k**
 <sub>included Macros should be client agnostic*</sub>
 
-Created by Spud. This is a TazUO profile containing a piece of just about everything. While it isn't the best to look at it includes most useful information on screen from the start. With minimal hotkeys (Wep Ability 1-5 on keys 1-5) it makes a good starting point for any character. Most UI elements can be dismissed directly (alt+right clk) and others allow for further configuration through the Help and Options Menus. The included Macros file contains plenty of simple Macros oraganized neatly in case you'd like to merge it with your existing Macros.
+Created by Spud. This is a TazUO profile containing a piece of just about everything. It's aligned to a 4k screen, windowed mode, expanded to fill. While it isn't the best to look at it includes most useful information on screen from the start. With minimal hotkeys (Wep Ability 1-5 on keys 1-5) it makes a good starting point for any character. Most UI elements can be dismissed directly (alt+right clk) and others allow for further configuration through the Help and Options Menus. The included Macros file contains plenty of simple Macros oraganized neatly in case you'd like to merge it with your existing Macros.
+
+**🥔 Spud_BaseLine_TazUO_1080p**
+<sub>included Macros should be client agnostic*</sub>
+
+Created by Spud. This is a TazUO profile containing a piece of just about everything. It's aligned to a 1080p screen, windowed mode, expanded to fill. While it isn't the best to look at it includes most useful information on screen from the start. With minimal hotkeys (Wep Ability 1-5 on keys 1-5) it makes a good starting point for any character. Most UI elements can be dismissed directly (alt+right clk) and others allow for further configuration through the Help and Options Menus. The included Macros file contains plenty of simple Macros oraganized neatly in case you'd like to merge it with your existing Macros.
