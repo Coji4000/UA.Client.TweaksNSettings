@@ -67,14 +67,21 @@
 		<gump type="16" x="1488" y="709" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="48" matrix_x="0" matrix_y="1" />
 		<gump type="16" x="1488" y="709" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="48" matrix_x="1" matrix_y="1" />
 	</anchored_group_gump>
-	<gump type="19" x="327" y="58" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" minimized="False" />
-	<gump type="9" x="1666" y="257" serial="574610" serverSerial="0" isLocked="False" alphaOffset="0" />
-	<gump type="1" x="5" y="-7" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" graphic="2091" updown="False" lastX="5" lastY="-7" />
-	<gump type="0" x="194" y="262" serial="268369938" serverSerial="268369939" isLocked="False" alphaOffset="0" />
-	<gump type="8787" x="928" y="754" serial="1077886197" serverSerial="0" isLocked="False" alphaOffset="0" ogContainer="60" />
-	<gump type="16" x="1306" y="709" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="21" />
-	<gump type="5" x="0" y="27" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
 	<gump type="20" x="193" y="58" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" minimized="False" />
+	<gump type="9" x="1666" y="257" serial="574610" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="271" y="111" serial="243455" serverSerial="4017734941" isLocked="False" alphaOffset="0" />
+	<gump type="8787" x="928" y="754" serial="1077886197" serverSerial="0" isLocked="False" alphaOffset="0" ogContainer="60" />
+	<gump type="0" x="738" y="663" serial="243448" serverSerial="1436160044" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="738" y="573" serial="243449" serverSerial="2160233605" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="738" y="633" serial="243447" serverSerial="3331172209" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="856" y="131" serial="243441" serverSerial="4253614341" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="856" y="87" serial="243443" serverSerial="4253614347" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="856" y="43" serial="243440" serverSerial="4253614344" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="855" y="-1" serial="243442" serverSerial="4253614342" isLocked="False" alphaOffset="0" />
+	<gump type="0" x="3" y="611" serial="243439" serverSerial="3531698223" isLocked="False" alphaOffset="0" />
+	<gump type="1" x="3" y="-48" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" graphic="2091" updown="False" lastX="3" lastY="-48" />
+	<gump type="0" x="194" y="262" serial="268369938" serverSerial="268369939" isLocked="False" alphaOffset="0" />
+	<gump type="6" x="2" y="654" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" rw="738" rh="334" tab="0" />
 	<gump type="3" x="1671" y="635" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" rows="3" columns="6" rectsize="40">
 		<controls>
 			<control graphic="0" hue="0" />
@@ -97,6 +104,8 @@
 			<control graphic="0" hue="0" />
 		</controls>
 	</gump>
-	<gump type="6" x="2" y="654" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" rw="738" rh="334" tab="0" />
+	<gump type="5" x="0" y="27" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
+	<gump type="16" x="1306" y="709" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" id="21" />
+	<gump type="19" x="327" y="58" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" minimized="False" />
 	<gump type="18" x="1582" y="1" serial="0" serverSerial="0" isLocked="False" alphaOffset="0" />
 </gumps>
